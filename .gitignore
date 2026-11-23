@@ -1,0 +1,10 @@
+# Data and run artifacts are not tracked (see the "Data" section of README.md)
+data/*
+!data/README.txt
+result/
+results/
+__pycache__/
+*.pyc
+
+# Structural-encoding cache written to <cwd>/../data/se/<dataset>/
+se/
