@@ -170,11 +170,11 @@ See `./data/README.txt` for a concise checklist of the required files and column
 Then reproduce the five benchmarks:
 
 ```bash
-sh run.sh 151673
-sh run.sh 151674
-sh run.sh E18_mouse_brain
-sh run.sh Stereo_AB
-sh run.sh BRCA
+bash run.sh 151673
+bash run.sh 151674
+bash run.sh E18_mouse_brain
+bash run.sh Stereo_AB
+bash run.sh BRCA
 ```
 
 Or run a single dataset directly:
