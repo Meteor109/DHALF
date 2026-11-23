@@ -7,7 +7,7 @@ DHALF turns a spatial graph into a **low-pass (homophilic) view** and a **high-p
 The fused embedding `z_mix` is used for spatial domain identification, boundary recovery,
 UMAP visualisation and downstream marker-gene analysis.
 
-![framework](Pic/framework.png)
+![framework](Pic/DHALF.jpg)
 
 ---
 
